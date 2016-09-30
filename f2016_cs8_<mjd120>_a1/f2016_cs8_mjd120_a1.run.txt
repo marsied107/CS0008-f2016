@@ -1,0 +1,25 @@
+Run1
+/usr/bin/python /Users/marielledavis/PycharmProjects/CS0008-f2016/f2016_cs8_<mjd120>_a1/f2016_cs8_mjd120_a1.py
+If you are using the metric system enter 1 if you are using the USC system enter 2: 1
+Enter how far you have driven in miles or kilometers: 45
+Enter how much gas you have used in gallons or liters: 3
+                             USC             Metric
+('Distance_________:  ', '27.962', 'miles', '45.000', 'Km')
+('Gas______________:  ', '0.793', 'gallons', '3.000', 'Liters')
+('Consumption______:  ', '35.282', 'mpg', '6.000', '1/100Km')
+('Gas Consuption Rating:', 'Excellent')
+
+Process finished with exit code 0
+
+Run2
+/usr/bin/python /Users/marielledavis/PycharmProjects/CS0008-f2016/f2016_cs8_<mjd120>_a1/f2016_cs8_mjd120_a1.py
+If you are using the metric system enter 1 if you are using the USC system enter 2: 2
+Enter how far you have driven in miles or kilometers: 78
+Enter how much gas you have used in gallons or liters: 12
+                             USC             Metric
+('Distance_________:  ', '78.000', 'miles', '125.529', 'Km')
+('Gas______________:  ', '12.000', 'gallons', '45.425', 'Liters')
+('Consumption______:  ', '6.000', 'mpg', '36.187', '1/100Km')
+('Gas Consuption Rating:', 'Extremely Poor')
+
+Process finished with exit code 0

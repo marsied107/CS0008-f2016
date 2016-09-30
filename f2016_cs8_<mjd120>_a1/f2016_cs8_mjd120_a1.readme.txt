@@ -1,0 +1,7 @@
+To create the program I first began by having the user input 1 or 2 for what system they're using. The program then later
+used this input to calculate things. Next I asked the user for their input of how far they drove and how much gas they used.
+They entered these numbers as floats and enter there system using integers. From there i used an if statement to determine
+what system they were using and convert the numbers from that system to the other. After this the program then does the
+calculations to determine the fuel consumption for both systems. The next step uses an if else stament to compute the
+the fuel consumption rating based on the table given. Lastly i printed that data out in the table format and using the 3
+decimal place format required.
