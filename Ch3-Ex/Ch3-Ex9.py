@@ -4,7 +4,7 @@ number = (input('Enter a number 0-36: '))
 #Makes sure the number is an integer
 number = int(number)
 
-#tets if number is between 0 and 36
+#tests if number is between 0 and 36
 if number < 0 or number > 36:
     print ('Give me a number between 0 and 36')
 
