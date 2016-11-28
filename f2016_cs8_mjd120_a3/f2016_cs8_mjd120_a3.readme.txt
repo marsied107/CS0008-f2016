@@ -1,0 +1,16 @@
+opens and read the text file
+intialize data container
+intializes the variables
+loop on all the data files
+open current data file for reading
+loop on all lines
+check if it is a header
+read the whole file in
+Creates the sum of all of the lines read
+splits key and value
+Calculates max and min
+Calculates the total distance
+Calculates how many people have multiple records
+Creates an output file of Peoples names, how many times they ran,and each of their distances
+Calculates how many files the file reads
+Prints all of the data
