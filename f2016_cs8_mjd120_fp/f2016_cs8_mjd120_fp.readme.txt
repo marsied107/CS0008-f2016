@@ -1,0 +1,13 @@
+starts class, name of participant, total distance run, total number of runs, initializer methods,
+set name, set distance if not zero, set distance, set number of runs, end if, addDistance class, end if
+addDistances class, loops the list, end if, end for, returns the name, returns total distance,returns number of runs,
+turns object into a string, converts to csv, initialize list, reads file by line, excludes the header, skips line,
+removes \n and split line at ",", append to dictionary, remove unwanted spaces and convert distance to float,
+skips incorrectly formatted lines, end for, return, ask for master file, read master file and extract data files,
+sum of all the lists, sum of all the elements in the files, sum of the second item in raw data, sum of distance,
+initializes dictionary, loops records, check if the names have been found, if it is new initialize elements,
+insert distance in the list, max distance run, initializes dictionaey, finds the total distance run for each person,
+gets total distance run by one person, check to update min, check to update max, gets number of runs,
+check if we need to initialize, finds total number of participants, find total number of people with more than one record,
+extracts all the people that have multiple runs, set format strings, provide requested output, creates output file,
+opens file, writes header in file, loop on all the participants, write line in file, close files
