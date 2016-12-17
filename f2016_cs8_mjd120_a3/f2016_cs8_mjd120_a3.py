@@ -91,7 +91,3 @@ print('by participant              :     ',minkey)
 print('Total number of participants:     ',len(person_distances.keys()))
 print('  Number of participants            ')
 print('with multiple records       :     ',(multi_record_count))
-
-
-
-
