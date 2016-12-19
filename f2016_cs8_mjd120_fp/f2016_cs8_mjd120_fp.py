@@ -3,6 +3,11 @@
 #Course: Int Programming 1
 #Final Project
 #12-16-16
+#
+# Notes:
+# MN: re-using code is totally fine, but you should make it yours and change file names.
+#
+
 
 #starts class
 class participant:
